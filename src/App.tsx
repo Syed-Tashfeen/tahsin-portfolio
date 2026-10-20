@@ -3,7 +3,6 @@ import { ThemeProvider, useTheme } from './context/ThemeContext';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { ProofOfWork } from './components/ProofOfWork';
-import { GithubContributions } from './components/GithubContributions';
 import { Skills } from './components/Skills';
 import { Education } from './components/Education';
 import { Contact } from './components/Contact';
@@ -28,10 +27,7 @@ export const AppContent: React.FC = () => {
         {/* 2. Proof of Work (Featured Projects) */}
         <ProofOfWork />
 
-        {/* 3. GitHub Contributions */}
-        <GithubContributions />
-
-        {/* 4. Skills */}
+        {/* 3. Skills */}
         <Skills />
 
         {/* 5. Education */}
