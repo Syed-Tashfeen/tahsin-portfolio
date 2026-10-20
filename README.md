@@ -54,6 +54,7 @@ A production-quality personal portfolio website built with **React 19**, **TypeS
    - Verified channels:
      - **GitHub**: `https://github.com/Syed-Tashfeen`
      - **LinkedIn**: `https://www.linkedin.com/in/syed-tashfeenul-haque-b724aa2b5/`
+     - **X (Twitter)**: `https://x.com/TashfeenulHaque`
      - **Email**: `stashfeenulhaque@gmail.com`
      - **Phone**: `7763029413`
    - Working contact form with validation and automatic `mailto:` client opening fallback.

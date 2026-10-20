@@ -38,7 +38,7 @@ export const siteConfig: SiteConfig = {
   phone: "7763029413",
   github: "https://github.com/Syed-Tashfeen",
   linkedin: "https://www.linkedin.com/in/syed-tashfeenul-haque-b724aa2b5/",
-  twitter: "https://x.com/Syed_Tashfeen",
+  twitter: "https://x.com/TashfeenulHaque",
   resumeUrl: "/resume/Tashfeen_Resume.pdf",
   bioSummary: "I’m Tashfeen, an Electronics and Communication Engineering student passionate about software development, full-stack engineering, and AI-powered applications. I enjoy turning ideas into practical products through code, experimentation, and continuous learning.",
   aboutStory: [
