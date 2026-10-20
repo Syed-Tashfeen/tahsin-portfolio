@@ -43,8 +43,10 @@ export const Hero: React.FC = () => {
         {/* Action Buttons matching Screenshot 1 */}
         <div className="flex items-center justify-center gap-3">
           <a
-            href={`mailto:${siteConfig.email}?subject=Let's%20connect%20with%20Tashfeen`}
-            className="px-4 py-2 rounded-lg text-sm font-medium bg-black text-white hover:bg-neutral-800 dark:bg-white dark:text-black dark:hover:bg-neutral-200 shadow-sm transition-all"
+            href={siteConfig.calCom}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-2 rounded-lg text-sm font-medium bg-black text-white hover:bg-neutral-800 dark:bg-white dark:text-black dark:hover:bg-neutral-200 shadow-sm transition-all inline-flex items-center justify-center"
           >
             Book a meet
           </a>

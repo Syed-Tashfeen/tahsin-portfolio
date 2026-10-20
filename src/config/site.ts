@@ -11,6 +11,7 @@ export interface SiteConfig {
   github: string;
   linkedin: string;
   twitter?: string;
+  calCom: string;
   resumeUrl: string;
   bioSummary: string;
   aboutStory: string[];
@@ -39,6 +40,7 @@ export const siteConfig: SiteConfig = {
   github: "https://github.com/Syed-Tashfeen",
   linkedin: "https://www.linkedin.com/in/syed-tashfeenul-haque-b724aa2b5/",
   twitter: "https://x.com/TashfeenulHaque",
+  calCom: "https://cal.com/syed-tashfeen-ul-haque-bnm0hp/15min",
   resumeUrl: "/resume/Tashfeen_Resume.pdf",
   bioSummary: "I’m Tashfeen, an Electronics and Communication Engineering student passionate about software development, full-stack engineering, and AI-powered applications. I enjoy turning ideas into practical products through code, experimentation, and continuous learning.",
   aboutStory: [

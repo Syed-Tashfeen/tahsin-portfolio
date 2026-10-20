@@ -35,7 +35,9 @@ export const Contact: React.FC = () => {
 
           <div className="flex flex-wrap items-center gap-3">
             <a
-              href={`mailto:${siteConfig.email}?subject=Book%20a%20meet%20with%20Tashfeen`}
+              href={siteConfig.calCom}
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-[#22c55e] hover:bg-[#16a34a] text-black font-semibold text-xs sm:text-sm px-4 py-2 rounded-lg transition-colors"
             >
               <MessageSquare className="w-4 h-4 fill-black text-black" />
